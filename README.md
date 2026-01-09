@@ -23,11 +23,11 @@ The FSIG coordinates financial-industry stakeholders to:
 
 ## 🗓️ Meetings
 
-**Cadence:** Every two weeks (starting October 9th, 2025)  
+**Cadence:** Every two weeks 
 **Time:** 4-5pm London (BST/GMT)  
 **Duration:** 60 minutes  
-**Format:** Virtual  
-**Zoom Link:** [Join FSIG Bi-weekly Meeting](https://bloomberg.zoom.us/j/94297371315?pwd=v3WLhJrPEafnbZUFUMg7R19qsAYlMJ.1)
+**Format:** Virtual
+**Calendar Invite:** [MCP Meetings - Finance](https://meet.modelcontextprotocol.io/tag/finance)
 
 > **Note:** See the [agenda doc](hhttps://docs.google.com/document/d/19HwCw7i4k-omABGnRYGGuLdMJNXQc3rs_QRgJxPhQU8/edit?tab=t.0) for accurate next meeting times.
 
