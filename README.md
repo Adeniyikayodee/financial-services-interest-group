@@ -42,7 +42,7 @@ FSIG members are actively contributing to these MCP working groups and experimen
 **Format:** Virtual
 **Calendar Invite:** [MCP Meetings - Finance](https://meet.modelcontextprotocol.io/tag/finance)
 
-> **Note:** See the [agenda doc](hhttps://docs.google.com/document/d/19HwCw7i4k-omABGnRYGGuLdMJNXQc3rs_QRgJxPhQU8/edit?tab=t.0) for accurate next meeting times.
+> **Note:** See the [agenda doc](https://docs.google.com/document/d/19HwCw7i4k-omABGnRYGGuLdMJNXQc3rs_QRgJxPhQU8/edit?tab=t.0) for accurate next meeting times.
 
 All meetings include:
 - Brief [antitrust reminder](https://github.com/modelcontextprotocol/modelcontextprotocol/blob/main/ANTITRUST.md) at start
