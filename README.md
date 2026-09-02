@@ -31,7 +31,7 @@ FSIG members are actively contributing to these MCP working groups and experimen
 - **Primary Channel:** [MCP Discord](https://discord.com/invite/6CSzBmMkjX) → `#financial-services-ig`
 - **Meetings:** Bi-weekly, 60 minutes
   - Meeting agendas posted in Discord ≥48 hours in advance
-- **Work Tracking:** GitHub Issues and Discussions in this repository
+- **Work Tracking:** GitHub Issues in this repository
 - **Reporting:** Quarterly updates to the broader MCP community
 
 ## 🗓️ Meetings
@@ -77,12 +77,14 @@ Our initial work focuses on:
 
 ```
 /
-├── README.md                 # This file - Quick start guide
-├── CHARTER.md               # Mission, scope, and extension strategy
-├── GOVERNANCE.md            # Governance model, roles, and members
-├── CONTRIBUTING.md          # Contribution guidelines
-├── extensions/              # MCP extension specifications and examples
-└── docs/                    # Guides, whitepapers, and documentation
+├── README.md               # This file - Quick start guide
+├── CHARTER.md              # Mission, scope, and extension strategy
+├── GOVERNANCE.md           # Governance model, roles, and members
+├── CONTRIBUTING.md         # Contribution guidelines
+├── LICENSE                 # Apache License 2.0
+├── .github/                # CODEOWNERS and repository configuration
+├── extensions/             # MCP extension specifications and examples
+└── docs/                   # Guides, whitepapers, and documentation
 ```
 
 ## 🤝 Contributing

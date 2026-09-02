@@ -80,7 +80,6 @@ See [CHARTER.md](./CHARTER.md#proactive-promotion) for more details.
 
 - **Discord:** `#financial-services-ig` — Real-time chat and questions
 - **GitHub Issues:** Proposals, bugs, and structured discussions
-- **GitHub Discussions:** Longer-form conversations
 - **Meetings:** Bi-weekly sync (see [README](./README.md#️-meetings))
 
 ## Recognition
